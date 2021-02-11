@@ -42,4 +42,3 @@ fun Route.customerRouting() {
         delete("{id}") {}
     }
 }
-
