@@ -32,6 +32,10 @@ fun Route.customerRouting() {
                                 type = InputType.button
                                 value = "1"
                             }
+                            input {
+                                type = InputType.button
+                                value = "2"
+                            }
                         }
                     }
                 }
